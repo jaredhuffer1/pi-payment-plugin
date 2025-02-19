@@ -1,5 +1,3 @@
-# pi-payment-plugin
-
 # Pi Payment Plugin
 
 **A secure and efficient payment plugin that allows businesses to accept Pi cryptocurrency.**
